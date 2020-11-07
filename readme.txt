@@ -1,2 +1,1 @@
-1st change
-Merge Conflict Change
+1st change Merge Conflict Change
